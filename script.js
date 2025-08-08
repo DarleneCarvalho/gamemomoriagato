@@ -1,12 +1,12 @@
 const cardsArray = [
-  'img/gato1.png',
-  'img/gato2.png',
-  'img/gato3.png',
-  'img/gato4.png',
-  'img/gato5.png',
-  'img/gato6.png',
-  'img/gato7.png',
-  'img/gato8.png',
+  'img:gato1.png',
+  'img:gato2.png',
+  'img:gato3.png',
+  'img:gato4.png',
+  'img:gato5.png',
+  'img:gato6.png',
+  'img:gato7.png',
+  'img:gato8.png',
 ];
 
 let gameGrid = [...cardsArray, ...cardsArray]; // 8 pares = 16 cartas
